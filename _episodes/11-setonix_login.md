@@ -55,8 +55,8 @@ There are some materials for the lessons which are hosted on github. In order to
 ```bash
 cd $MYSCRATCH
 pwd
-git clone https://github.com/SarahBeecroft/TKI_HPC.git
-cd TKI_HPC/exercises
+git clone https://github.com/SarahBeecroft/int_HPC.git
+cd int_HPC/exercises
 pwd
 ls
 ```
